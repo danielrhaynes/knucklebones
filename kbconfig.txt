@@ -1,0 +1,8 @@
+{
+    "charactersPerPassword":  1,
+    "wordsPerPassword":  3,
+    "passwordsToGenerate":  10,
+    "mode":  1,
+    "digitsPerPassword":  4,
+    "wordlist":  "default"
+}
